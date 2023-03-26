@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/569/784/53/macro-table-books-blur-wallpaper-preview.jpg);
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  .btn-primary {
+    border-radius: 0;
+  }
+  
+  #output {
+    margin-top: 20px;
+  }
